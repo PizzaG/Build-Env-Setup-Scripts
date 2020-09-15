@@ -1,7 +1,12 @@
 ## Custom Linux Android Build Environment Setup Launcher
-## Made By: PizzaG
-## Version: 0.07
 ## Copyright: 2020 A-Team Digital Solutions
+
+echo " Custom Linux Android Build Environment Setup Launcher"
+echo " Made By: PizzaG"
+echo " Version: 0.08"
+
+echo " Loading Setup Launcher..."
+sleep 5
 
 mkdir -p ~/Android
 mkdir -p ~/Android/Build_Env_Setup
@@ -22,5 +27,7 @@ bash setup/make.sh
 rm -rf ~/Android/Build_Env_Setup
 rm -rf ~/Android/Sdk
 
-ECHO ""Script All Done, Enjoy""
-PAUSE
+echo "" Installation Script All Done, Enjoy""
+
+pause
+
