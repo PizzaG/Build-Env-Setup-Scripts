@@ -1,7 +1,8 @@
-mkdir -p ~/Build_Env_Setup
-mkdir -p ~/Recoveries
-mkdir -p ~/Roms
-cd ~/Build_Env_Setup
+mkdir -p ~/Android
+mkdir -p ~/Android/Build_Env_Setup
+mkdir -p ~/Android/Recoveries
+mkdir -p ~/Android/Roms
+cd ~/Android/Build_Env_Setup
 git clone https://github.com/PizzaG/Build-Env-Setup-Scripts
 cd Build-Env-Setup-Scripts
 
