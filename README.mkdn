@@ -18,3 +18,5 @@ Enjoy!
 random-html -> generates an index.html with a table with the list of files in current directory.
 
 setup -> setup Android Build Environment / Android SDK. scripts to setup git credentials and functions after fresh installation.
+
+Credits Go To All Oringinal Developers from which This was Forked, as well as myself who made the DesktopLauncher.sh Script
