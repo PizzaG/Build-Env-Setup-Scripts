@@ -1,4 +1,4 @@
-mkdir -p ~/Build_Env_setup && cd ~/Build_Env_setup
+mkdir -p ~/Build_Env_Setup && cd ~/Build_Env_Setup
 git clone https://github.com/PizzaG/Build-Env-Setup-Scripts
 cd Build-Env-Setup-Scripts
 
