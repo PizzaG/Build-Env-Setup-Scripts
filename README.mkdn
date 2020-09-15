@@ -6,7 +6,9 @@ Firstly, install [git], using the package manager in your distro.
 
 Then, follow these instructions
 ```
-
+1- Download the DesktopLauncher.sh From This Package
+2- Check Permissions and make DesktopLauncher.sh Executable
+3- Run DesktopLauncher.sh From Desktop
 ```
 
 Enjoy!
