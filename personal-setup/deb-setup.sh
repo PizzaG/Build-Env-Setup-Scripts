@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-source ~/scripts/setup/hub.sh
+source ~/Build-Env-Setup-Scripts/setup/hub.sh
 git config --global user.name "PizzaG"
 git config --global user.email "pizzag98@gmail.com"
 git config --global credential.helper "cache --timeout=7200"
