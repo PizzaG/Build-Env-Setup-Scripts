@@ -6,9 +6,9 @@ Firstly, install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing
 Then, run these commands
 
 ```bash
-$ git clone https://github.com/akhilnarang/scripts
+$ git clone https://github.com/PizzaG/Build-Env-Setup-Scripts
 $ cd scripts
-$ bash setup/<name of script>
+$ bash setup/android_build_env.sh
 ```
 
 `android_build_env.sh` is for Ubuntu/Linux Mint/other distributions using the `apt` package manager.
