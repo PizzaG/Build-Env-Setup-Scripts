@@ -8,12 +8,12 @@ For Ubuntu/Linux Mint or other distributions using the `apt` package manager
 ```
 
 ## Options Included 
-...
+```
 Installs git
 Installs ADB/Fastboot
 Device Tree Generator for Building Recoveries
 WIP..
-...
+```
 
 ### Brief explanation of stuff in here
 
