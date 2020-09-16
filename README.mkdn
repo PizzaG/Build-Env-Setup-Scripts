@@ -1,17 +1,19 @@
-for Ubuntu/Linux Mint/other distributions using the `apt` package manager
+For Ubuntu/Linux Mint or other distributions using the `apt` package manager
 
 ## To setup build environment
-
-Firstly, install [git], using the package manager in your distro.
-
-Then, follow these instructions
 ```
 1- Download the DesktopLauncher.sh From This Package
 2- Check Permissions and make DesktopLauncher.sh Executable
 3- Run DesktopLauncher.sh From Desktop
 ```
 
-Enjoy!
+## Options Included 
+...
+Installs git
+Installs ADB/Fastboot
+Device Tree Generator for Building Recoveries
+WIP..
+...
 
 ### Brief explanation of stuff in here
 
@@ -20,3 +22,5 @@ random-html -> generates an index.html with a table with the list of files in cu
 setup -> setup Android Build Environment / Android SDK. scripts to setup git credentials and functions after fresh installation.
 
 Credits Go To All Oringinal Developers from which This was Forked, as well as myself who made the DesktopLauncher.sh Script
+
+This has been made with the guy/girl in mind who is just starting out building Android stuff.  It should install most everything needed to build recoveries, kernels as well as full roms.  It will also setup a basic folder/directory structure for you in your Home Directory.  The folder will be named Android
