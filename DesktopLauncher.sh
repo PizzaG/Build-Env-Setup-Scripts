@@ -3,7 +3,7 @@
 
 echo " Custom Linux Android Build Environment Setup Launcher"
 echo " Made By: PizzaG"
-echo " Version: 0.10"
+echo " Version: 0.11"
 
 echo " Loading Setup Launcher..."
 sleep 5
@@ -15,7 +15,7 @@ mkdir -p ~/Android
 mkdir -p ~/Android/Build_Env_Setup
 mkdir -p ~/Android/Recoveries
 cd ~/Android/Recoveries
-git clone https://github.com/SebaUbuntu/TWRP-device-tree-generator
+git clone https://github.com/PizzaG/TWRP-device-tree-generator
 mv ~/Android/Recoveries/TWRP-device-tree-generator ~/Android/Recoveries/Device-Tree-Generator
 mkdir -p ~/Android/Roms
 mkdir -p ~/Android/Kernels
