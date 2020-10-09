@@ -5,6 +5,7 @@ For Ubuntu/Linux Mint or other distributions using the `apt` package manager
 1- Download the DesktopLauncher.sh In The Release Section
 2- Check Permissions and make DesktopLauncher.sh Executable
 3- Run DesktopLauncher.sh From Desktop
+4- Profit!!
 ```
 
 ## Options Included 
