@@ -2,7 +2,7 @@ For Ubuntu/Linux Mint or other distributions using the `apt` package manager
 
 ## To setup build environment
 ```
-1- Download the DesktopLauncher.sh From This Package
+1- Download the DesktopLauncher.sh In The Release Section
 2- Check Permissions and make DesktopLauncher.sh Executable
 3- Run DesktopLauncher.sh From Desktop
 ```
