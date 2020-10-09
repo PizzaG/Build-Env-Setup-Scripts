@@ -11,12 +11,16 @@ For Ubuntu/Linux Mint or other distributions using the `apt` package manager
 ## Options Included 
 ```
 Sets Up Basic Directory Structure
-Installs git
+Installs Git
+Installs Aria2
+Installs Cpio
 Installs ADB/Fastboot
-Installs Python 2.7 & 3.8
+Installs Python 2.7
+Installs Python 3.8
+Installs Java 7
 Installs Java 8
-Dekstop Python & Java version Changer Launchers
-Device Tree Generator(DTG) for Building Recoveries
+Dekstop Python & Java Version Changer Launchers
+TWRP Device Tree Generator(DTG) for Building Recoveries
 Dekstop Launcher for DTG
 SuperR Rom Kitchen for Building Custom Stock Roms
 Desktop Launcher for SuperR Rom Kitchen
