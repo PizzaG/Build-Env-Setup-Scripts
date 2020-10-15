@@ -1,0 +1,61 @@
+## TWRP
+repo init --depth=1 -u http://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git -b twrp-10.0
+
+repo init --depth=1 -u http://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git -b twrp-9.0
+
+repo init --depth=1 -u http://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git -b twrp-7.1
+
+repo init --depth=1 -u http://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git -b twrp-5.1
+
+
+
+## OrangeFox
+repo init --depth=1 -u http://github.com/PizzaG/orangefox-7.1-manifest.git
+
+repo init --depth=1 -u http://gitlab.com/OrangeFox/Manifest.git -b fox_9.0
+
+
+
+## PitchBlack
+repo init --depth=1 -u http://github.com/PitchBlackRecoveryProject/manifest_pb.git -b android-10.0
+
+repo init --depth=1 -u http://github.com/PitchBlackTWRP/manifest_pb.git -b android-8.1
+
+repo init --depth=1 -u http://github.com/PitchBlackTWRP/manifest_pb.git -b android-7.1
+
+
+
+## RedWolf *Android 8*
+repo init --depth=1 -u http://github.com/RedWolfRecovery/rw_manifest.git -b rw
+
+
+
+## SkyHawk
+repo init --depth=1 -u http://github.com/SKYHAWK-Recovery-Project/platform_manifest_twrp_omni.git -b android-9.0
+
+
+
+## Dark
+
+
+
+## Batik
+
+
+
+## RedWolf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
