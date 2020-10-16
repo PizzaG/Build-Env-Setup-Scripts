@@ -1,4 +1,9 @@
-For Ubuntu/Linux Mint or other distributions using the `apt` package manager
+## Supports
+```
+Ubuntu
+Linux Mint 
+Distributions Using The `apt` Package Manager
+```
 
 ## To setup build environment
 ```
