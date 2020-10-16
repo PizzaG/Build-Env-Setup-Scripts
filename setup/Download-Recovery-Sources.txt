@@ -46,5 +46,5 @@ repo init --depth=1 -u http://github.com/SKYHAWK-Recovery-Project/platform_manif
 ## Building Notes ##
 **Build 10.0 With Java 8 & Python 3
 **Build 9.0 With Java 8 & Python 3
-**Build 7.1 With Java ?? & Python ??
+**Build 7.1 With Java 8 & Python ??
 **Build 5.1 With Java 7 & Python 2.7
