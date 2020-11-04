@@ -5,15 +5,23 @@ Linux Mint
 Distributions Using The `apt` Package Manager
 ```
 
-## To setup build environment
+## Setup Build Environment
 ```
-1- Download the DesktopLauncher.sh In The Release Section
-2- Check Permissions and make DesktopLauncher.sh Executable
-3- Run DesktopLauncher.sh From Desktop
+1- Download BuildEnvLauncher.sh From Releases Section
+2- Check Permissions and make Executable
+3- Run The Downloaded BuildEnvLauncher.sh From Desktop or Terminal
 4- Profit!!
 ```
 
-## Options Included 
+## Setup Rom Kitchen & DTG(Included In Full Version)
+```
+1- Download DTG-RomKitchenSetup.sh From Releases Section
+2- Check Permissions and make Executable
+3- Run The Downloaded DTG-RomKitchenSetup.sh From Desktop or Terminal
+4- Profit!!
+```
+
+## Options Included- Full Version
 ```
 Sets Up Basic Directory Structure
 Installs Git
