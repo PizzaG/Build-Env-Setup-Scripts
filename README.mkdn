@@ -5,7 +5,7 @@ Linux Mint
 Distributions Using The `apt` Package Manager
 ```
 
-## Setup Build Environment ##
+## Setup Build Environment(Full Version) ##
 ```
 1- Download BuildEnvLauncher.sh From Releases Section
 2- Check Permissions and make Executable
