@@ -50,7 +50,8 @@ This has been made with the guy/girl in mind who is just starting out building A
 
 ## Credits ##
 ```
-All Oringinal Developers from which This was Forked, as well as myself who made the Seperate Insall Launchers
+All Oringinal Developers from which This was Forked
+Myself(PizzaG) who made the Seperate Insall Launchers
 SuperR Creator
 SeaUbuntu Device Tree Generator Creator
 ```
