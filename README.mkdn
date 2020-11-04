@@ -1,11 +1,11 @@
-## Supports
+## Supports ##
 ```
 Ubuntu
 Linux Mint 
 Distributions Using The `apt` Package Manager
 ```
 
-## Setup Build Environment
+## Setup Build Environment ##
 ```
 1- Download BuildEnvLauncher.sh From Releases Section
 2- Check Permissions and make Executable
@@ -13,7 +13,7 @@ Distributions Using The `apt` Package Manager
 4- Profit!!
 ```
 
-## Setup Rom Kitchen & DTG(Included In Full Version)
+## Setup Rom Kitchen & DTG(Included In Full Version) ##
 ```
 1- Download DTG-RomKitchenSetup.sh From Releases Section
 2- Check Permissions and make Executable
@@ -21,7 +21,7 @@ Distributions Using The `apt` Package Manager
 4- Profit!!
 ```
 
-## Options Included- Full Version
+## Options Included- Full Version ##
 ```
 Sets Up Basic Directory Structure
 Installs Git
@@ -40,12 +40,17 @@ Desktop Launcher for SuperR Rom Kitchen
 WIP..
 ```
 
-### Brief explanation of stuff in here
+### Brief Explanation of Stuff in Here ##
 
 random-html -> generates an index.html with a table with the list of files in current directory.
 
 setup -> setup Android Build Environment / Android SDK. scripts to setup git credentials and functions after fresh installation.
 
-Credits Go To All Oringinal Developers from which This was Forked, as well as myself who made the DesktopLauncher.sh Script
-
 This has been made with the guy/girl in mind who is just starting out building Android stuff.  It should install most everything needed to build recoveries, kernels as well as full roms.  It will also setup a basic folder/directory structure for you in your Home Directory.  The folder will be named Android
+
+## Credits ##
+```
+All Oringinal Developers from which This was Forked, as well as myself who made the Seperate Insall Launchers
+SuperR Creator
+SeaUbuntu Device Tree Generator Creator
+```
