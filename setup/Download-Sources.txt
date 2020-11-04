@@ -1,0 +1,87 @@
+--Notes--
+
+### Recovery Building Notes ##
+**Build 10.0 With Java 8 & Python 3.8
+**Build 9.0 With Java 8 & Python 3.8
+**Build 7.1 With Java 8 & Python 2.7
+**Build 6.0 With Java 7 & Python 2.7
+**Build 5.1 With Java 7 & Python 2.7
+
+
+### Repo Sync Rom Or Recovery*Use 1 Or The Other* ##
+## repo sync
+## repo sync -c -f -j8 --force-sync --no-clone-bundle --no-tags
+
+
+
+
+--Recoveries--
+
+## TWRP
+repo init --depth=1 -u http://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git -b twrp-10.0
+
+repo init --depth=1 -u http://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git -b twrp-9.0
+
+repo init --depth=1 -u http://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git -b twrp-8.1
+
+repo init --depth=1 -u http://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git -b twrp-7.1 *10-2020 Broken
+
+repo init --depth=1 -u http://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git -b twrp-6.0
+
+repo init --depth=1 -u http://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git -b twrp-5.1
+
+
+## OrangeFox
+repo init --depth=1 -u http://gitlab.com/OrangeFox/Manifest.git -b fox_9.0
+
+repo init --depth=1 -u http://gitlab.com/OrangeFox/Manifest.git -b fox_8.1
+
+repo init --depth=1 -u http://gitlab.com/OrangeFox/Manifest.git -b fox_7.1
+
+
+## PitchBlack
+repo init --depth=1 -u http://github.com/PitchBlackRecoveryProject/manifest_pb.git -b android-10.0
+
+repo init --depth=1 -u http://github.com/PitchBlackTWRP/manifest_pb.git -b android-9.0
+
+repo init --depth=1 -u http://github.com/PitchBlackTWRP/manifest_pb.git -b android-8.1
+
+repo init --depth=1 -u http://github.com/PitchBlackTWRP/manifest_pb.git -b android-7.1
+
+
+## RedWolf *Android 8*
+repo init --depth=1 -u http://github.com/RedWolfRecovery/rw_manifest.git -b rw
+
+
+## SkyHawk
+repo init --depth=1 -u http://github.com/SKYHAWK-Recovery-Project/platform_manifest_twrp_omni.git -b android-9.0
+
+
+## Dark
+
+
+## Batik
+
+
+
+
+--Roms--
+
+## LineageOS
+repo init -u http://github.com/LineageOS/android.git -b cm-14.1
+
+
+## OmniRom
+repo init -u http://github.com/omnirom/android.git -b android-7.1
+
+
+## Bliss
+
+
+## ResurrectionRemix
+
+
+
+
+
+
